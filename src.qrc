@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="bg">src/img/bck@2x.png</file>
+        <file alias="player_left0">src/img/lik-left@2x.png</file>
+        <file alias="player_right0">src/img/lik-right@2x.png</file>
+        <file alias="player_shoot0">src/img/lik-puca@2x.png</file>
+        <file alias="bullet">src/img/projectile-tiles@2x.png</file>
+        <file alias="player_left1">src/img/lik-left-odskok@2x.png</file>
+        <file alias="player_right1">src/img/lik-right-odskok@2x.png</file>
+        <file alias="title">src/img/game-tiles@2x.png</file>
+        <file alias="player_mouth">src/img/lik-njuska@2x.png</file>
+        <file alias="player_shoot1">src/img/lik-puca-odskok@2x.png</file>
+        <file alias="jetpack">src/img/jetpack@2x.png</file>
+        <file alias="prop">src/img/propeller@2x.png</file>
+        <file alias="endtitle">src/img/endTitle.png</file>
+        <file alias="pause">src/img/pause-cover@2x.png</file>
+        <file alias="top">src/img/top-score.png</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file alias="shoot">src/sound/pistol_shoot.mp3</file>
+    </qresource>
+</RCC>
