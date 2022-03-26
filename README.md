@@ -1,7 +1,7 @@
 # 2020-pd2-DoodleJump
 
 ## Video link
-####[PD2 Doodle Jump Project Demo](https://youtu.be/aSYiyHHYCv8)
+#### [PD2 Doodle Jump Project Demo](https://youtu.be/aSYiyHHYCv8)
 ## How to play
 ##### 1. Press Enter to Play Again
 ##### 2. Press Space to shoot
